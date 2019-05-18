@@ -1,4 +1,4 @@
 # aulaUSF
 Aula de Paradigmas
 
-A
+Alterado por Leandro
